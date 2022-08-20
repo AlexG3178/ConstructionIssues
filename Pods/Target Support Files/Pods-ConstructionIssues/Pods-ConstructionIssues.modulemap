@@ -1,0 +1,6 @@
+framework module Pods_ConstructionIssues {
+  umbrella header "Pods-ConstructionIssues-umbrella.h"
+
+  export *
+  module * { export * }
+}

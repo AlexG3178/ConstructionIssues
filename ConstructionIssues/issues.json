@@ -1,0 +1,379 @@
+[
+    {
+        "ID": "ISS-00001",
+        "Subject": "Fencing issue",
+        "State": "Open",
+        "Status": "Assigned",
+        "AssignedTo": "Brian Bentley",
+        "DueDate": "7/30/21",
+        "Priority": "1 - Critical",
+        "Description": "We ran out of materials for fences. Materials are needed for the next week. Is it ordered already? It causes some safety concerns as well. The faster we get them the better.",
+        "Type": "Materials"
+    },
+    {
+        "ID": "RFI-00001",
+        "Subject": "Drain retention pond dimensions",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Bob Bentley",
+        "AssignedTo": "Bob Bentley",
+        "DueDate": "1/21/21",
+        "Priority": "3 - Medium",
+        "Description": "What are the dimensions of the drain retention pond?",
+        "Type": "Design"
+    },
+    {
+        "ID": "RFI-00002",
+        "State": "Closed",
+        "Status": "Approved",
+        "CreatedBy": "Bob Bentley",
+        "AssignedTo": "Bob Bentley",
+        "DueDate": "1/7/21",
+        "Priority": "2 - High",
+        "Type": "Design"
+    },
+    {
+        "ID": "ISS-00003",
+        "Subject": "Dust on site",
+        "State": "Open",
+        "Status": "Assigned",
+        "AssignedTo": "Brian Bentley",
+        "DueDate": "6/29/21",
+        "Type": "Conditions"
+    },
+    {
+        "ID": "ISS-00004",
+        "Subject": "Dozer broke down",
+        "State": "Open",
+        "Status": "In review",
+        "AssignedTo": "Bella Bentley",
+        "DueDate": "12/31/20",
+        "Type": "Equipment"
+    },
+    {
+        "ID": "ISS-00005",
+        "Subject": "Truck blocking entrance",
+        "State": "Open",
+        "Status": "Assigned",
+        "AssignedTo": "Brian Bentley",
+        "DueDate": "7/16/21",
+        "Type": "Safety"
+    },
+    {
+        "ID": "ISS-00002",
+        "Subject": "Need more Traffic cones",
+        "State": "Open",
+        "Status": "Assigned",
+        "AssignedTo": "Anna Bentley",
+        "DueDate": "10/1/21",
+        "Priority": "3 - Medium",
+        "Description": "Not enough cones",
+        "Type": "Progress"
+    },
+    {
+        "ID": "SIO-00004",
+        "Subject": "Pavement width updated",
+        "State": "Open",
+        "Status": "In review",
+        "CreatedBy": "Brian Bentley",
+        "AssignedTo": "Bella Bentley",
+        "DueDate": "1/6/21",
+        "Description": "Station 0 to 109 - Pavement width updated as per change in Design Spec",
+        "Type": "Design"
+    },
+    {
+        "ID": "SIO-00005",
+        "Subject": "New site entrance for heavy equipment",
+        "State": "Open",
+        "Status": "In review",
+        "CreatedBy": "Brian Bentley",
+        "AssignedTo": "Brian Bentley",
+        "DueDate": "6/28/21",
+        "Description": "The new site entrance has been opened. It is in the northwest corner of the site. All heavy equipment should go through there.",
+        "Type": "Equipment"
+    },
+    {
+        "ID": "SIO-00002",
+        "Subject": "Excavator passed inspection",
+        "State": "Closed",
+        "Status": "Approved",
+        "CreatedBy": "Bob Bentley",
+        "AssignedTo": "Bob Bentley",
+        "DueDate": "1/8/21",
+        "Type": "Equipment"
+    },
+    {
+        "ID": "RFI-00103",
+        "Subject": "When will the steel be onsite",
+        "State": "Open",
+        "Status": "In review",
+        "CreatedBy": "Jose Castillo",
+        "AssignedTo": "Arpit Prakash",
+        "DueDate": "7/22/21",
+        "Priority": "2 - High"
+    },
+    {
+        "ID": "RFI-00102",
+        "Subject": "When will the steal be onsite",
+        "AssignedTo": "Michelle J. Schwartz",
+        "DueDate": "11/16/20",
+        "Priority": "2 - High"
+    },
+    {
+        "ID": "RFI-00113",
+        "Subject": "Drawing #Incorrect",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Keith Johnson",
+        "Priority": "1 - Critical"
+    },
+    {
+        "ID": "RFI-00107",
+        "Subject": "Wrong diameter pipe",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Ashley Cooperman",
+        "AssignedTo": "Project Manager",
+        "DueDate": "3/31/21",
+        "Priority": "3 - Medium"
+    },
+    {
+        "ID": "RFI-00106",
+        "Subject": "Is fireproofing needed?",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Ashley Cooperman",
+        "AssignedTo": "Ashley Cooperman",
+        "DueDate": "3/26/21",
+        "Priority": "1 - Critical"
+    },
+    {
+        "ID": "ISS-00117",
+        "Subject": "Pipe not in the correct place",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Ashley Cooperman",
+        "AssignedTo": "Team Member",
+        "DueDate": "3/26/21",
+        "Priority": "3 - Medium",
+        "Description": "Needs review",
+        "Type": "Materials"
+    },
+    {
+        "ID": "ISS-00126",
+        "Subject": "Safety fencing",
+        "State": "Closed",
+        "Status": "Approved",
+        "CreatedBy": "Paul King",
+        "AssignedTo": "Paul King",
+        "DueDate": "9/30/21",
+        "Priority": "2 - High",
+        "Description": "Need to check that fence security locks are in place."
+    },
+    {
+        "ID": "RFI-00101",
+        "Subject": "Road closure",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Michelle J. Schwartz",
+        "AssignedTo": "Mike Ruotolo",
+        "DueDate": "4/22/22",
+        "Priority": "3 - Medium"
+    },
+    {
+        "ID": "ISS-00106",
+        "Subject": "Job Trailer location",
+        "State": "Open",
+        "Status": "Review",
+        "CreatedBy": "Jose Castillo",
+        "AssignedTo": "Jeff Purse",
+        "DueDate": "11/12/20",
+        "Priority": "2 - High",
+        "Type": "Equipment"
+    },
+    {
+        "ID": "ISS-00110",
+        "Subject": "Broken Window",
+        "State": "Open",
+        "Status": "In review",
+        "CreatedBy": "Michelle J. Schwartz",
+        "AssignedTo": "Michelle J. Schwartz",
+        "DueDate": "5/27/21",
+        "Priority": "2 - High",
+        "Type": "Materials"
+    },
+    {
+        "ID": "ISS-00116",
+        "Subject": "Column mispositioned",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Ashley Cooperman",
+        "AssignedTo": "Joseph Nelson",
+        "DueDate": "4/30/21",
+        "Priority": "2 - High",
+        "Description": "Needs review.",
+        "Type": "Safety"
+    },
+    {
+        "ID": "SIO-00003",
+        "Subject": "Crews arriving on site",
+        "State": "Open",
+        "Status": "In review",
+        "CreatedBy": "Bob Bentley",
+        "AssignedTo": "Bob Bentley",
+        "DueDate": "12/30/20",
+        "Type": "Progress"
+    },
+    {
+        "ID": "RFI-00003",
+        "Subject": "Substitute materials",
+        "State": "Open",
+        "Status": "In review",
+        "CreatedBy": "Bob Bentley",
+        "AssignedTo": "Bob Bentley",
+        "DueDate": "2/11/21",
+        "Priority": "4 - Low",
+        "Type": "Materials"
+    },
+    {
+        "ID": "RFI-00004",
+        "Subject": "Concrete control joints",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Bob Bentley",
+        "AssignedTo": "Bob Bentley",
+        "DueDate": "3/1/21",
+        "Priority": "4 - Low",
+        "Type": "Materials"
+    },
+    {
+        "ID": "ISS-00006",
+        "Subject": "Foundation crack",
+        "State": "Open",
+        "Status": "Assigned",
+        "AssignedTo": "Anna Bentley",
+        "DueDate": "9/14/21",
+        "Priority": "1 - Critical",
+        "Description": "Crack 1mm wide and 1420mm length appeared since Sunday.",
+        "Type": "Quality"
+    },
+    {
+        "ID": "ISS-00007",
+        "Subject": "Pillar length",
+        "State": "Open",
+        "Status": "Assigned",
+        "AssignedTo": "Brian Bentley",
+        "DueDate": "7/31/21",
+        "Priority": "4 - Low"
+    },
+    {
+        "ID": "ISS-00008",
+        "Subject": "Wrong thickness",
+        "State": "Open",
+        "Status": "In review",
+        "AssignedTo": "Brian Bentley",
+        "DueDate": "9/28/21",
+        "Priority": "1 - Critical"
+    },
+    {
+        "ID": "SIO-00001",
+        "Subject": "Site fencing completed",
+        "State": "Closed",
+        "Status": "Approved",
+        "CreatedBy": "Bob Bentley",
+        "AssignedTo": "Bob Bentley",
+        "DueDate": "1/5/21",
+        "Type": "Safety"
+    },
+    {
+        "ID": "RFI-00005",
+        "Subject": "Right of way",
+        "State": "Draft",
+        "Status": "Draft",
+        "CreatedBy": "Bob Bentley",
+        "AssignedTo": "Bob Bentley",
+        "DueDate": "3/24/21",
+        "Priority": "4 - Low",
+        "Type": "Other"
+    },
+    {
+        "ID": "ISS-00101",
+        "Subject": "Cracked Glass",
+        "State": "Open",
+        "Status": "Review",
+        "CreatedBy": "Michelle J. Schwartz",
+        "AssignedTo": "Jeff Purse",
+        "DueDate": "11/27/20",
+        "Priority": "5 - Real low",
+        "Description": "Glass window has crack after installation",
+        "Type": "Quality"
+    },
+    {
+        "ID": "ISS-00102",
+        "Subject": "Trailer has no power",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Michelle J. Schwartz",
+        "AssignedTo": "Jeff Purse",
+        "DueDate": "11/13/20",
+        "Priority": "1 - Critical",
+        "Description": "Generator need to be repaired",
+        "Type": "Equipment"
+    },
+    {
+        "ID": "ISS-00103",
+        "Subject": "Foundation",
+        "State": "Open",
+        "Status": "Review",
+        "CreatedBy": "Jose Castillo",
+        "AssignedTo": "Jose Castillo",
+        "DueDate": "11/12/20",
+        "Priority": "2 - High",
+        "Type": "Materials"
+    },
+    {
+        "ID": "ISS-00104",
+        "Subject": "Foundation for Stairs not installed",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Jose Castillo",
+        "AssignedTo": "Jose Castillo",
+        "DueDate": "11/20/20",
+        "Priority": "2 - High",
+        "Description": "Need concrete pad poured",
+        "Type": "Materials"
+    },
+    {
+        "ID": "ISS-00129",
+        "Subject": "Drawing #Incorrect",
+        "State": "Open",
+        "Status": "In review",
+        "CreatedBy": "Keith Johnson",
+        "AssignedTo": "Keith Johnson",
+        "DueDate": "4/28/22",
+        "Priority": "5 - Real low",
+        "Type": "Design"
+    },
+    {
+        "ID": "RFI-00114",
+        "Subject": "Doors material - need clarification",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Ashley Cooperman",
+        "AssignedTo": "Jerry Baeza",
+        "DueDate": "11/5/21",
+        "Priority": "2 - High"
+    },
+    {
+        "ID": "ISS-00128",
+        "Subject": "Review structural steel - design",
+        "State": "Open",
+        "Status": "Assigned",
+        "CreatedBy": "Keith Johnson",
+        "AssignedTo": "Keith Johnson",
+        "DueDate": "10/27/21",
+        "Priority": "2 - High",
+        "Description": "Please check specs",
+        "Type": "Design"
+    }
+]
